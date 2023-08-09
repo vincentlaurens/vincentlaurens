@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **Kubernetes, Azure, AWS**
 
-- 📫 How to reach me **vincent.laurens31@gmail.com**
-
-- 📄 Know about my experiences [https://vincentlaurens.github.io/](https://vincentlaurens.github.io/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/laurensvincent1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="laurensvincent1" height="30" width="40" /></a>
